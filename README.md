@@ -94,7 +94,6 @@ Segmentación por nivel de uso:
 - NumPy
 - Matplotlib
 - Seaborn
-- Google Colab
 
 ---
 
